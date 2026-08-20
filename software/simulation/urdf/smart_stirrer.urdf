@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<robot name="smart_stirrer">
+  <!-- Placeholder model. Add validated links, joints, geometry, and inertial properties as the mechanism develops. -->
+</robot>
