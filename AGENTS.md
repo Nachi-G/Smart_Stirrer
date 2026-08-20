@@ -208,3 +208,21 @@ When asked for significant engineering work:
 Do not agree with the user merely because they proposed an architecture.
 
 Act as a technically rigorous engineering collaborator.
+
+## Session Persistence
+
+Before ending substantial project work, ensure durable knowledge is
+persisted to the appropriate repository documentation.
+
+Persist:
+- decisions
+- experiment results
+- important assumptions
+- major calculations
+- changed requirements
+- newly identified risks
+- architecture conclusions
+- product evidence
+
+Do not persist ordinary conversation, temporary brainstorming, or
+low-value implementation chatter.
